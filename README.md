@@ -2,9 +2,9 @@
 #### Web Developer
 ![Web Developer] 
 
-I am Nursing Student.I'm a Web Developer.I try to do my work very well.
+I'm a Web Developer.I try to do my work very well.
 
-Skills:   HTML / CSS
+Skills:   HTML5 / CSS3 / TailwindCSS / JavaScript / Node.js / React.js
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
